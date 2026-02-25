@@ -36,9 +36,8 @@ A simple and user-friendly Ping tool with GUI, real-time output, packet loss sta
 ---
 
 ## 截图 / Screenshot
-
-*（建议在此处放置程序运行截图）*  
-*(It is recommended to add a screenshot here)*
+见Release
+Please visit Release
 
 ---
 
