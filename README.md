@@ -108,5 +108,11 @@ All dependencies are listed in requirements.txt.
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 贡献 / Contributing
+---
+
+## 致谢 / Acknowledgement
+
+- 本项目的部分代码由 AI 辅助生成。  
+- Part of this project's code was generated with the assistance of AI.
 欢迎提交 Issue 或 Pull Request 来改进这个工具！
 Feel free to submit issues or pull requests to improve this tool!
